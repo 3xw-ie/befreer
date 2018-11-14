@@ -45,7 +45,7 @@
           If you’re sick of admin, and want to find out how much you can stop doing yourself enter your email below and we’ll start making that happen.
         </p>
         <form
-          name="email"
+          name="Email Interest"
           method="POST"
           netlify
           class="flex max-w-md w-full bg-white sm:shadow-lg rounded-lg"
@@ -57,6 +57,7 @@
             Email
           </label>
           <input
+            name="email"
             type="email"
             placeholder="sick-of-admin@email.com"
             class="flex-1 pt-4 pr-2 pl-4 pb-4 sm:pr-4 bg-transparent text-sm sm:text-base rounded-l-lg border sm:border-transparent focus:outline-none focus:shadow-outline focus:mr-3px"
