@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="bg-white">
     <header class="flex h-16 w-full p-4 bg-indigo">
       <div>
         <img
@@ -10,39 +10,46 @@
       </div>
     </header>
     <main
-      class=" py-8 lg:py-24 px-4 md:py-8 font-base text-grey-darkest text-base sm:text-lg leading-normal"
+      class="py-8 lg:py-24 px-4 md:py-8 pb-32 font-base text-grey-darkest text-base sm:text-lg leading-normal"
       style="background-image: linear-gradient(-180deg, #FFFFFF 0%, #F4F6F9 100%);"
     >
-      <section class="lg:max-w-lg mx-auto">
+      <section class="max-w-lg mx-auto">
         <h1 class="font-black text-2xl xs:text-3xl sm:text-4xl md:text-5xl text-grey-darkest leading-none mb-6">
           People don’t start a business so they can deal with admin.
         </h1>
         <h2 class="font-light text-xl md:text-2xl text-black leading-tight mb-2">
-          People start businesses to share their passion or skill with the world.<br>
+          People start businesses to share a passion or skill with the world.<br>
         </h2>
         <h2 class="font-light text-xl md:text-2xl text-black leading-tight mb-6">
-          We’ll help you to be less busy. <strong class="font-bold">Be Freer.</strong>
+          We help people be less busy. We help people <strong class="font-bold">Be Freer.</strong>
         </h2>
         <p class="mb-4">
-          Do you own a business? Can you remember a time where you haven’t had a stack of to-dos? Receipts that need to be photographed and sent to your accountant? Invoice reminders that need to be resent? Customers that need to be contacted? Appointments that need to be confirmed?
+          Do you own a business? Can you remember a time when you've had an <em>empty to-do list</em>? Receipts need to be photographed and sent to your accountant. Customers need to be contacted. Invoice reminders need to be sent <em>again</em>.
         </p>
         <p class="mb-4">
-          Things pile up. You find more and more of your time spent on tasks that have to be done and less on what you want to be doing. Is this why you started in the first place?
+          Things pile up. You find <em>more and more</em> of your time spent on tasks that have to be done, and <em>less</em> on what you want to be doing. Is this why you got started in the first place?
         </p>
         <p class="mb-4">
-          What if you could get rid of most of that work? What if you could spend more of your time doing what you’re good at? We can help.
+          How many hours a week do you think you spend on admin? How many a month? <em>A year?</em> Imagine you could stop doing most of that today. <em>What could you spend your time on instead?</em>
         </p>
         <p class="mb-4">
-          We work with each client, go through your processes from buying stock or planning an event all the way to filing your tax returns and putting your feet up.
+          We think people should be free to spend more of their time <em>doing what they do best</em>, rather than on automatable admin. We help make this a reality.
         </p>
-        <p class="mb-4">
-          We remove unnecessary steps, automate what can be automated and leave you with more time to do what you do best.
+        <p class="mb-2"> 
+          All it takes is a few straightforward steps:
         </p>
+        <ol class="mb-4">
+          <li>Get in touch</li>
+          <li>We go through your most time-consuming tasks</li>
+          <li>We streamline what can be avoided</li>
+          <li>We automate as much as possible</li>
+          <li>You decide how to spend all your new time</li>
+        </ol>
         <p class="mb-4">
-          It starts with an email. All of our initial consultations are free and are followed up with a proposal of how we can get rid of tasks you hate.
+          This all starts with you reaching out. If we've piqued your interest and you'd like to chat, <em>get in touch</em>. We'll talk, and we'll propose how we can get rid of tasks you hate doing. Then, if it sounds worth it to you &mdash; we're off to the races. If not, there's <em>no charge and no obligation</em> whatsoever.
         </p>
         <p class="mb-6 sm:mb-8 font-bold">
-          If you’re sick of admin, and want to find out how much you can stop doing yourself enter your email below and we’ll start making that happen.
+          If you’re tired of admin, and interested in learning how we can reduce your admin workload &mdash; enter your email below and we’ll start making that happen.
         </p>
         <form
           name="Email Interest"
@@ -75,6 +82,9 @@
             </span>
           </button>
         </form>
+        <small class="block pt-2 px-4 text-grey-darkest">
+          We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
+        </small>
       </section>
     </main>
   </section>
@@ -89,5 +99,9 @@ export default {
 <style>
 html {
   @apply font-sans;
+}
+
+body {
+  background-color: #f4f6f9;
 }
 </style>
