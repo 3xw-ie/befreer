@@ -3,7 +3,7 @@
     <header class="flex h-16 w-full p-4 bg-indigo">
       <div>
         <img
-          src="/logo-white.svg"
+          src="/befreer-logo-light.svg"
           alt="Be Freer logo"
           class="h-full w-auto"
         >
