@@ -225,8 +225,8 @@
           <h2 class="font-light text-xl sm:text-2xl leading-normal text-black mr-24 mb-6">
             Enter your email below and we'll be in touch.
           </h2>
-          <!-- <form
-            name="Email Interest"
+          <form
+            name="Email Interest (/payments)"
             method="POST"
             netlify
             class="flex max-w-md w-full bg-white sm:shadow-lg rounded-lg"
@@ -260,7 +260,7 @@
                 Submit
               </span>
             </button>
-          </form> -->
+          </form>
           <small class="block pt-2 px-4 text-grey-darkest">
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
           </small>
