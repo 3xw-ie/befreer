@@ -281,8 +281,9 @@ export default {
   },
   computed: {
     viewportWiderThan992() {
-      if (typeof window === 'undefined') return
-      return window.innerWidth >= 992 ? true : false
+      if (typeof window !== 'undefined') {
+        return window.innerWidth >= 992 ? true : false
+      }
     }
   },
   mounted() {
