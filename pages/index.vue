@@ -62,7 +62,7 @@
           <input
             name="email"
             type="email"
-            placeholder="sick-of-admin@email.com"
+            placeholder="sick-of-admin@youremail.com"
             class="flex-1 pt-4 pr-2 pl-4 pb-4 sm:pr-4 bg-transparent text-sm sm:text-base rounded-l-lg border sm:border-transparent focus:outline-none focus:shadow-outline focus:mr-3px"
             required
           >
