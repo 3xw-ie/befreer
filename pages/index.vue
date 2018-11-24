@@ -1,6 +1,6 @@
 <template>
   <section class="bg-white">
-    <!-- <main
+    <main
       class="font-base text-grey-darkest text-base sm:text-lg leading-normal"
       style="background-image: linear-gradient(-180deg, #FFFFFF 0%, #F4F6F9 100%);"
     >
@@ -114,7 +114,7 @@
           </section>
         </div>
       </section>
-    </main> -->
+    </main>
   </section>
 </template>
 
