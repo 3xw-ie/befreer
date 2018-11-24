@@ -18,12 +18,12 @@
         >
           Automation
         </nuxt-link> -->
-        <a
-          href="/payments"
+        <nuxt-link
+          to="/payments"
           class="no-underline text-white font-medium tracking-wide mr-4"
         >
           Payments
-        </a>
+        </nuxt-link>
         <!-- <nuxt-link
           to="/events"
           class="no-underline text-white font-medium tracking-wide mr-8"
