@@ -1,19 +1,10 @@
 <template>
   <section class="bg-white">
-    <header class="flex h-16 w-full p-4 bg-indigo">
-      <div>
-        <img
-          src="/befreer-logo-light.svg"
-          alt="Be Freer logo"
-          class="h-full w-auto"
-        >
-      </div>
-    </header>
     <main
-      class="py-8 lg:py-24 px-4 md:py-8 pb-32 font-base text-grey-darkest text-base sm:text-lg leading-normal"
+      class="font-base text-grey-darkest text-base sm:text-lg leading-normal"
       style="background-image: linear-gradient(-180deg, #FFFFFF 0%, #F4F6F9 100%);"
     >
-      <section class="max-w-lg mx-auto">
+      <section class="max-w-lg mx-auto py-8 lg:py-24 px-4 md:py-8 pb-16 md:pb-32">
         <h1 class="font-black text-2xl xs:text-3xl sm:text-4xl md:text-5xl text-grey-darkest leading-none mb-6">
           People don’t start a business so they can deal with admin.
         </h1>
@@ -57,6 +48,11 @@
           netlify
           class="flex max-w-md w-full bg-white sm:shadow-lg rounded-lg"
         >
+          <input
+            type="hidden"
+            name="page"
+            value="/payments"
+          >
           <label
             for="email"
             class="hidden"
@@ -86,21 +82,53 @@
           We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
         </small>
       </section>
+      <section class="p-8 bg-indigo-lightest">
+        <div class="mx-auto md:flex md:justify-between md:items-center max-w-xl">
+          <section class="max-w-sm mb-2 md:mb-4">
+            <div class="flex items-center -ml-4 mb-8">
+              <img
+                src="/payments-icon.svg"
+                alt="Payments icon"
+                class="h-12 w-12 mr-4"
+              >
+              <p class="text-2xl font-bold text-indigo uppercase tracking-wide">
+                Payments
+              </p>
+            </div>
+            <h1 class="font-black text-4xl sm:text-5xl text-grey-darkest leading-none mb-6">
+              Get paid quicker and easier online.
+            </h1>
+            <nuxt-link
+              to="/payments"
+              class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
+            >
+              Learn more &rarr;
+            </nuxt-link>
+          </section>
+          <section class="hidden md:block max-w-xs lg:flex lg:items-center">
+            <img 
+              src="/make-it-rain.svg"
+              alt="An illustration of a man making it rain with green dollar notes onto a large credit card"
+              class="w-full h-auto"
+            >
+          </section>
+        </div>
+      </section>
     </main>
   </section>
 </template>
 
 <script>
+import Header from '~/components/Header'
+
 export default {
-  //
+  components: {
+    Header
+  }
 }
 </script>
 
-<style>
-html {
-  @apply font-sans;
-}
-
+<style scoped>
 body {
   background-color: #f4f6f9;
 }

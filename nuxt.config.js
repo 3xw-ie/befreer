@@ -29,21 +29,17 @@ module.exports = {
   /*
   ** Global CSS
   */
-  css: [
-    '~/assets/css/tailwind.css'
-  ],
+  css: ['~/assets/css/tailwind.css'],
 
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [{ src: '~/plugins/animations.js', ssr: false }],
 
   /*
   ** Nuxt.js modules
   */
-  modules: [
-  ],
+  modules: ['@nuxtjs/ngrok'],
 
   /*
   ** Build configuration
@@ -62,6 +58,8 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    }
+    },
+
+    vendor: ['web-animations-js/web-animations.min']
   }
 }

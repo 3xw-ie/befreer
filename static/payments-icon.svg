@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>payments</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="37.2844693%" y1="117.946876%" x2="62.3263292%" y2="-17.3605393%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54932%" y1="67928%" x2="54932%" y2="23384%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9910539%" y1="100%" x2="49.9910539%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="88878%" y1="64614%" x2="88878%" y2="60303%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74139%" y1="48705%" x2="74139%" y2="46456%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94990%" y1="64614%" x2="94990%" y2="60303%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94990%" y1="56930%" x2="94990%" y2="52620%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="81299%" y1="48705%" x2="81299%" y2="46456%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.09" offset="55%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-94.000000, -160.000000)">
+        <g id="payments" transform="translate(94.000000, 160.000000)">
+            <circle id="Oval" fill="#4D6AE9" cx="24" cy="24" r="24"></circle>
+            <g id="undraw_credit_card_df1m" transform="translate(4.000000, 8.000000)" fill-rule="nonzero">
+                <rect id="Rectangle-path" fill="url(#linearGradient-1)" transform="translate(16.596006, 13.070004) rotate(-17.260000) translate(-16.596006, -13.070004) " x="1.99202999" y="4.00159059" width="29.2079523" height="18.1368268" rx="1.1"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(16.653521, 12.913247) rotate(-17.260000) translate(-16.653521, -12.913247) " x="2.34738878" y="4.16579427" width="28.6122644" height="17.4949054" rx="1.1"></rect>
+                <rect id="Rectangle-path" fill="#6C63FF" transform="translate(15.139345, 7.959450) rotate(-17.260000) translate(-15.139345, -7.959450) " x="0.833212786" y="6.70495263" width="28.6122644" height="2.50899563"></rect>
+                <rect id="Rectangle-path" fill="#BDBDBD" transform="translate(10.389405, 21.212088) rotate(-17.260000) translate(-10.389405, -21.212088) " x="6.75454573" y="20.6696135" width="7.26971831" height="1.08494905"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" transform="translate(12.402547, 18.658690) rotate(-17.260000) translate(-12.402547, -18.658690) " x="6.0999195" y="18.1162154" width="12.6052546" height="1.08494905"></rect>
+                <rect id="Rectangle-path" fill="url(#linearGradient-2)" x="7.61486457" y="9.8158952" width="29.3727086" height="18.1547598" rx="1.1"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="7.9483857" y="10.0009316" width="28.6122644" height="17.4949054" rx="1.1"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="10.182416" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="11.2495233" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="12.3166306" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="14.1842687" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="15.2513759" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="16.3184832" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="18.1857205" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="19.2532286" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="20.3203359" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="22.1875731" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="23.2546804" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="24.3217876" y="12.7471325" width="1" height="2.40710335"></rect>
+                <rect id="Rectangle-path" fill="#BDBDBD" x="10.182416" y="24.8849491" width="7.26971831" height="1.08494905"></rect>
+                <rect id="Rectangle-path" fill="#E0E0E0" x="10.182416" y="23.0541485" width="12.6052546" height="1.08494905"></rect>
+                <path d="M30.9104334,18.9458515 C30.9070524,18.847392 30.9827623,18.7647616 31.0795991,18.7612227 L31.3305417,18.7612227 L31.3305417,17.2336536 L29.0900975,17.2336536 L29.0900975,18.9902766 L30.9100325,18.9902766 L30.9104334,18.9458515 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                <path d="M31.0795991,20.5944687 C30.9827623,20.5909298 30.9070524,20.5082994 30.9104334,20.4098399 L30.9104334,20.3637846 L29.0904984,20.3637846 L29.0904984,22.1204076 L31.3305417,22.1204076 L31.3305417,20.5944687 L31.0795991,20.5944687 Z" id="Shape" fill="url(#linearGradient-4)"></path>
+                <rect id="Rectangle-path" fill="url(#linearGradient-5)" x="29.0904984" y="19.2193304" width="1.81993499" height="1"></rect>
+                <path d="M31.9603034,20.4098399 C31.9636844,20.5082994 31.8879744,20.5909298 31.7911376,20.5944687 L31.5417985,20.5944687 L31.5417985,22.1220378 L33.7818418,22.1220378 L33.7818418,20.3637846 L31.9619068,20.3637846 L31.9603034,20.4098399 Z" id="Shape" fill="url(#linearGradient-6)"></path>
+                <path d="M31.5417985,17.2336536 L31.5417985,18.7612227 L31.7927411,18.7612227 C31.8895779,18.7647616 31.9652878,18.847392 31.9619068,18.9458515 L31.9619068,18.9902766 L33.7818418,18.9902766 L33.7818418,17.2336536 L31.5417985,17.2336536 Z" id="Shape" fill="url(#linearGradient-7)"></path>
+                <rect id="Rectangle-path" fill="url(#linearGradient-8)" x="31.9603034" y="19.2193304" width="1.81993499" height="1"></rect>
+                <path d="M30.9180498,18.9629694 C30.9180498,18.8729317 30.9898395,18.7999418 31.0783965,18.7999418 L31.3189166,18.7999418 L31.3189166,17.4431441 L29.1822969,17.4431441 L29.1822969,19.0025036 L30.9184507,19.0025036 L30.9180498,18.9629694 Z" id="Shape" fill="#6C63FF"></path>
+                <path d="M31.0791983,20.4265502 C30.9906412,20.4265502 30.9188516,20.3535603 30.9188516,20.2635226 L30.9188516,20.2227656 L29.181896,20.2227656 L29.181896,21.7825328 L31.3185157,21.7825328 L31.3185157,20.4265502 L31.0791983,20.4265502 Z" id="Shape" fill="#6C63FF"></path>
+                <rect id="Rectangle-path" fill="#6C63FF" x="29.181896" y="19.2058806" width="1.73615385" height="1"></rect>
+                <path d="M31.919415,20.2627074 C31.919415,20.3527451 31.8476253,20.4257351 31.7590683,20.4257351 L31.5185482,20.4257351 L31.5185482,21.7821252 L33.6551679,21.7821252 L33.6551679,20.2231732 L31.919415,20.2231732 L31.919415,20.2627074 Z" id="Shape" fill="#6C63FF"></path>
+                <path d="M31.5189491,17.4431441 L31.5189491,18.7995342 L31.7594691,18.7995342 C31.8480262,18.7995342 31.9198158,18.8725242 31.9198158,18.9625619 L31.9198158,19.0033188 L33.6559697,19.0033188 L33.6559697,17.4431441 L31.5189491,17.4431441 Z" id="Shape" fill="#6C63FF"></path>
+                <rect id="Rectangle-path" fill="#6C63FF" x="31.9198158" y="19.2058806" width="1.73615385" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

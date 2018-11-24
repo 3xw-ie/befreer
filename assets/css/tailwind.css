@@ -60,3 +60,22 @@
  * @import "utilities/background-patterns";
  * @import "utilities/skew-transforms";
  */
+
+ body {
+  @apply antialiased font-sans;
+ }
+
+ input {
+   @apply rounded-none;
+   appearance: none;
+ }
+
+ .skew {
+   transform: skewY(-4deg);
+   transform-origin: top left;
+ }
+
+.lift-on-hover:hover {
+  transition: transform .2s;
+  transform: translateY(-1px);
+}
