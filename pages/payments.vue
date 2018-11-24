@@ -1,6 +1,6 @@
 <template>
   <section>
-    <!-- <header class="relative overflow-hidden pt-12 md:pt-24 pb-24 md:pb-32">
+    <header class="relative overflow-hidden pt-12 md:pt-24 pb-24 md:pb-32">
       <div class="absolute pin h-full w-full skew bg-grey-light"/>
       <div class="relative container px-8 mx-auto lg:flex lg:justify-between">
         <section class="lg:max-w-sm mb-8">
@@ -55,7 +55,7 @@
           >
         </section>
       </div>
-    </header> -->
+    </header>
     <main>
       <section
         id="steps"
@@ -149,7 +149,7 @@
           </div>
         </div>
       </section>
-      <!-- <section class="bg-grey-lightest relative pt-16 md:pt-8 pb-24 md:pb-40">
+      <section class="bg-grey-lightest relative pt-16 md:pt-8 pb-24 md:pb-40">
         <div class="absolute pin h-full w-full skew bg-indigo"/>
         <div class="relative mx-auto md:flex px-4 sm:px-8 sm:max-w-sm md:max-w-xl">
           <div class="mb-8 md:mr-8">
@@ -213,8 +213,8 @@
             </nuxt-link>
           </div>
         </div>
-      </section> -->
-      <section 
+      </section>
+      <!-- <section 
         id="learn-more"
         class="px-4 pt-16 pb-24 bg-grey-lightest"
       >
@@ -265,7 +265,7 @@
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
           </small>
         </div>
-      </section>
+      </section> -->
     </main>
   </section>
 </template>
