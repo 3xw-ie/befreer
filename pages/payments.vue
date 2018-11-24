@@ -1,6 +1,6 @@
 <template>
   <section>
-    <header class="relative overflow-hidden pt-12 md:pt-24 pb-24 md:pb-32">
+    <!-- <header class="relative overflow-hidden pt-12 md:pt-24 pb-24 md:pb-32">
       <div class="absolute pin h-full w-full skew bg-grey-light"/>
       <div class="relative container px-8 mx-auto lg:flex lg:justify-between">
         <section class="lg:max-w-sm mb-8">
@@ -21,24 +21,24 @@
             Increase sales and convert more customers with well-designed checkout flows. Accept one-off payments, invoiced payments, and recurring subscriptions. Automate everything that comes after payment with our automation platform.
           </h2>
           <div>
-            <!-- <nuxt-link
+            <nuxt-link
               to=""
               class="inline-block rounded p-3 bg-indigo shadow-md font-bold text-white no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
             >
               Get Started
-            </nuxt-link> -->
+            </nuxt-link>
             <a
               href="#learn-more"
               class="inline-block rounded p-3 bg-indigo shadow-md font-bold text-white no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
             >
               Get Started
             </a>
-            <!-- <nuxt-link
+            <nuxt-link
               to=""
               class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover"
             >
               Contact us
-            </nuxt-link> -->
+            </nuxt-link>
             <a
               href="mailto:dave@befreer.ie"
               class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover mb-2"
@@ -55,7 +55,7 @@
           >
         </section>
       </div>
-    </header>
+    </header> -->
     <main>
       <section
         id="steps"
@@ -149,7 +149,7 @@
           </div>
         </div>
       </section>
-      <section class="bg-grey-lightest relative pt-16 md:pt-8 pb-24 md:pb-40">
+      <!-- <section class="bg-grey-lightest relative pt-16 md:pt-8 pb-24 md:pb-40">
         <div class="absolute pin h-full w-full skew bg-indigo"/>
         <div class="relative mx-auto md:flex px-4 sm:px-8 sm:max-w-sm md:max-w-xl">
           <div class="mb-8 md:mr-8">
@@ -205,16 +205,16 @@
             <p class="text-indigo-lightest leading-loose">
               Leave what can be done by computers to the computers. Automate the repetitive work so you can focus on more important tasks.
             </p>
-            <!-- <nuxt-link
+            <nuxt-link
               to="/automation"
               class="text-white no-underline leading-loose"
             >
               Learn more about automation &rarr;
-            </nuxt-link> -->
+            </nuxt-link>
           </div>
         </div>
-      </section>
-      <section 
+      </section> -->
+      <!-- <section 
         id="learn-more"
         class="px-4 pt-16 pb-24 bg-grey-lightest"
       >
@@ -265,7 +265,7 @@
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
           </small>
         </div>
-      </section>
+      </section> -->
     </main>
   </section>
 </template>
