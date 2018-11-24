@@ -236,12 +236,13 @@
               name="page"
               value="/payments"
             >
-            <label
+            <!-- For some reason this label element breaks Nuxt. TODO: figure out why. -->
+            <!-- <label
               for="email"
               class="hidden"
             >
               Email
-            </label>
+            </label> -->
             <input
               name="email"
               type="email"

@@ -41,6 +41,12 @@ module.exports = {
   */
   modules: ['@nuxtjs/ngrok'],
 
+  router: {
+    scrollBehavior: (to, from, savedPosition) => {
+      return { x: 0, y: 0 }
+    }
+  },
+
   /*
   ** Build configuration
   */
