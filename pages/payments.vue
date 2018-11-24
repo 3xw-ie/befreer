@@ -57,7 +57,7 @@
       </div>
     </header>
     <main>
-      <section
+      <!-- <section
         id="steps"
         ref="container"
         class="px-4 mx-auto flex flex-col items-center lg:items-start container pt-12 md:pt-24 pb-24 md:pb-48"
@@ -148,7 +148,7 @@
             </figcaption>
           </div>
         </div>
-      </section>
+      </section> -->
       <section class="bg-grey-lightest relative pt-16 md:pt-8 pb-24 md:pb-40">
         <div class="absolute pin h-full w-full skew bg-indigo"/>
         <div class="relative mx-auto md:flex px-4 sm:px-8 sm:max-w-sm md:max-w-xl">
