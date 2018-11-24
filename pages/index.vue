@@ -42,7 +42,7 @@
         <p class="mb-6 sm:mb-8 font-bold">
           If you’re tired of admin, and interested in learning how we can reduce your admin workload &mdash; enter your email below and we’ll start making that happen.
         </p>
-        <!-- <form
+        <form
           name="Email Interest"
           method="POST"
           netlify
@@ -53,12 +53,12 @@
             name="page"
             value="/"
           >
-          <label
+          <!-- <label
             for="email"
             class="hidden"
           >
             Email
-          </label>
+          </label> -->
           <input
             name="email"
             type="email"
@@ -77,7 +77,7 @@
               Submit
             </span>
           </button>
-        </form> -->
+        </form>
         <small class="block pt-2 px-4 text-grey-darkest">
           We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
         </small>
