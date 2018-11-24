@@ -45,12 +45,12 @@
               </nuxt-link>
             </li>
             <li class="my-4">
-              <nuxt-link
-                to="/payments"
+              <a
+                href="/payments"
                 class="no-underline text-indigo-lightest"
               >
                 Payments
-              </nuxt-link>
+              </a>
             </li>
             <!-- <li class="my-4">
               <a

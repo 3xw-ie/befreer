@@ -98,12 +98,12 @@
             <h1 class="font-black text-4xl sm:text-5xl text-grey-darkest leading-none mb-6">
               Get paid quicker and easier online.
             </h1>
-            <nuxt-link
-              to="/payments"
+            <a
+              href="/payments"
               class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
             >
               Learn more &rarr;
-            </nuxt-link>
+            </a>
           </section>
           <section class="hidden md:block max-w-xs lg:flex lg:items-center">
             <img 

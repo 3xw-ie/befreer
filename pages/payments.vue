@@ -226,7 +226,7 @@
             Enter your email below and we'll be in touch.
           </h2>
           <form
-            name="Email Interest (/payments)"
+            name="Email Interest"
             method="POST"
             netlify
             class="flex max-w-md w-full bg-white sm:shadow-lg rounded-lg"
