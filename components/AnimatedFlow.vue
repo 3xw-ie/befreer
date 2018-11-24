@@ -18,7 +18,7 @@
       />
     </svg>
     <svg
-      id="chevron"
+      ref="chevron"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 20 20"
       class="absolute w-8 text-green-dark fill-current"
@@ -67,7 +67,7 @@ export default {
     }
   },
   mounted() {
-    // this.cloneChevrons(15)
+    this.cloneChevrons(15)
     try {
       this.animate(this.delay)
     } catch (error) {
@@ -86,7 +86,7 @@ export default {
     animate(delay) {
       const path = this.$refs.path
       const container = this.$parent.$refs.container
-      const elements = document.querySelectorAll('#chevron')
+      const elements = this.chevrons
       const height = path.clientHeight
       const width = path.clientWidth
       const xDistance = width - (width * 8 / 400 ) // eslint-disable-line
