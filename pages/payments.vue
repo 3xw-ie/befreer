@@ -89,7 +89,7 @@
           <div
             class="relative ml-12 sm:ml-16"
           >
-            <!-- <AnimatedFlow/> -->
+            <AnimatedFlow/>
           </div>
         </div>
         <div
