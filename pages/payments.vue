@@ -248,9 +248,8 @@
             <button
               type="submit"
               class="rounded-r-lg p-4 bg-indigo uppercase tracking-wide font-bold text-sm sm:text-base text-white border border-indigo sm:border-transparent focus:outline-none focus:shadow-outline"
-            >
-              <!-- Submit -->
-            </button>
+              v-text="Submit"
+            />
           </form>
           <small class="block pt-2 px-4 text-grey-darkest">
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
