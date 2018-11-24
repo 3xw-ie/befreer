@@ -89,9 +89,7 @@
           <div
             class="relative ml-12 sm:ml-16"
           >
-            <no-ssr>
-              <AnimatedFlow/>
-            </no-ssr>
+            <AnimatedFlow/>
           </div>
         </div>
         <div
@@ -118,12 +116,10 @@
           <div
             class="relative ml-12 sm:ml-16"
           >
-            <no-ssr>
-              <AnimatedFlow
-                :left-to-right="viewportWiderThan992"
-                :delay="4000"
-              />
-            </no-ssr>
+            <AnimatedFlow
+              :left-to-right="viewportWiderThan992"
+              :delay="4000"
+            />
           </div>
         </div>
         <div
