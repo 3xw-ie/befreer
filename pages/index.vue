@@ -53,12 +53,12 @@
             name="page"
             value="/"
           >
-          <label
+          <!-- <label
             for="email"
             class="hidden"
           >
             Email
-          </label>
+          </label> -->
           <input
             name="email"
             type="email"
