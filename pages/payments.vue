@@ -89,7 +89,7 @@
           <div
             class="relative ml-12 sm:ml-16"
           >
-            <AnimatedFlow/>
+            <!-- <AnimatedFlow/> -->
           </div>
         </div>
         <div
@@ -116,10 +116,10 @@
           <div
             class="relative ml-12 sm:ml-16"
           >
-            <AnimatedFlow
+            <!-- <AnimatedFlow
               :left-to-right="viewportWiderThan992"
               :delay="4000"
-            />
+            /> -->
           </div>
         </div>
         <div
