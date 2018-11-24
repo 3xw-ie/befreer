@@ -47,6 +47,10 @@ module.exports = {
     }
   },
 
+  generate: {
+    subFolders: false
+  },
+
   /*
   ** Build configuration
   */
