@@ -3,7 +3,7 @@
     ref="path"
     class="flow"
   >
-    <!-- <svg
+    <svg
       :style="leftToRight ? '' : 'transform: scale(1, -1)'"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 400 100"
@@ -16,7 +16,7 @@
         id="path"
         d="M 4 0 v 50 h 392 v 50"
       />
-    </svg> -->
+    </svg>
     <!-- <svg
       id="chevron"
       xmlns="http://www.w3.org/2000/svg"
