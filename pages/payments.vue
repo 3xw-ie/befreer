@@ -214,7 +214,7 @@
           </div>
         </div>
       </section> -->
-      <!-- <section 
+      <section 
         id="learn-more"
         class="px-4 pt-16 pb-24 bg-grey-lightest"
       >
@@ -265,7 +265,7 @@
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
           </small>
         </div>
-      </section> -->
+      </section>
     </main>
   </section>
 </template>
