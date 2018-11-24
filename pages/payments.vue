@@ -249,7 +249,7 @@
               type="submit"
               class="rounded-r-lg p-4 bg-indigo uppercase tracking-wide font-bold text-sm sm:text-base text-white border border-indigo sm:border-transparent focus:outline-none focus:shadow-outline"
             >
-              <!-- Submit -->
+              Submit
             </button>
           </form>
           <small class="block pt-2 px-4 text-grey-darkest">
