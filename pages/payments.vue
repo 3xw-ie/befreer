@@ -21,24 +21,24 @@
             Increase sales and convert more customers with well-designed checkout flows. Accept one-off payments, invoiced payments, and recurring subscriptions. Automate everything that comes after payment with our automation platform.
           </h2>
           <div>
-            <nuxt-link
+            <!-- <nuxt-link
               to=""
               class="inline-block rounded p-3 bg-indigo shadow-md font-bold text-white no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
             >
               Get Started
-            </nuxt-link>
+            </nuxt-link> -->
             <a
               href="#learn-more"
               class="inline-block rounded p-3 bg-indigo shadow-md font-bold text-white no-underline uppercase tracking-wide lift-on-hover mb-2 mr-2"
             >
               Get Started
             </a>
-            <nuxt-link
+            <!-- <nuxt-link
               to=""
               class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover"
             >
               Contact us
-            </nuxt-link>
+            </nuxt-link> -->
             <a
               href="mailto:dave@befreer.ie"
               class="inline-block rounded p-3 bg-white shadow-md font-bold text-indigo no-underline uppercase tracking-wide lift-on-hover mb-2"
@@ -214,7 +214,7 @@
           </div>
         </div>
       </section>
-      <!-- <section 
+      <section 
         id="learn-more"
         class="px-4 pt-16 pb-24 bg-grey-lightest"
       >
@@ -231,11 +231,11 @@
             netlify
             class="flex max-w-md w-full bg-white sm:shadow-lg rounded-lg"
           >
-            <input
+            <!-- <input
               type="hidden"
               name="page"
               value="/payments"
-            >
+            > -->
             <label
               for="email"
               class="hidden"
@@ -265,7 +265,7 @@
             We promise we will send exactly one email, written by a human. <em>No spam, no obligation.</em>
           </small>
         </div>
-      </section> -->
+      </section>
     </main>
   </section>
 </template>
