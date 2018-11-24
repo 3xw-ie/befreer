@@ -69,7 +69,7 @@ export default {
   mounted() {
     // this.cloneChevrons(15)
     try {
-      this.animate(this.delay)
+      // this.animate(this.delay)
     } catch (error) {
       console.error(error)
     }
