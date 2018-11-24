@@ -70,12 +70,12 @@
             type="submit"
             class="rounded-r-lg p-4 bg-indigo uppercase tracking-wide font-bold text-sm sm:text-base text-white border border-indigo sm:border-transparent focus:outline-none focus:shadow-outline"
           >
-            <span class="hidden sm:inline">
+            <!-- <span class="hidden sm:inline">
               Hear from us
             </span>
             <span class="sm:hidden">
               Submit
-            </span>
+            </span> -->
           </button>
         </form>
         <small class="block pt-2 px-4 text-grey-darkest">
