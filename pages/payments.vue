@@ -243,13 +243,13 @@
             >
               Email
             </label> -->
-            <input
+            <!-- <input
               name="email"
               type="email"
               placeholder="sick-of-admin@email.com"
               class="flex-1 pt-4 pr-2 pl-4 pb-4 sm:pr-4 bg-transparent text-sm sm:text-base rounded-l-lg border sm:border-transparent focus:outline-none focus:shadow-outline focus:mr-3px"
               required
-            >
+            > -->
             <button
               type="submit"
               class="rounded-r-lg p-4 bg-indigo uppercase tracking-wide font-bold text-sm sm:text-base text-white border border-indigo sm:border-transparent focus:outline-none focus:shadow-outline"
