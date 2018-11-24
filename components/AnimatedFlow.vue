@@ -1,6 +1,6 @@
 <template>
   <div
-    ref="path"
+    ref="flow"
     class="flow"
   >
     <svg
@@ -22,26 +22,10 @@
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 20 20"
       class="absolute w-8 text-green-dark fill-current"
-      style="left: -16px; top: -11px; opacity: 1;"
+      style="left: -16px; top: -11px; opacity: 0;"
     >
       <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
     </svg>
-    <!-- <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
-    <svg id="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="absolute w-8 text-green-dark fill-current" style="left: -16px; top: -11px; opacity: 0;"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg> -->
-    <!-- eslint-enable -->
   </div>
 </template>
 
@@ -80,15 +64,15 @@ export default {
       Array.from(Array(quantity)).forEach((x, i) => {
         const chevron = this.$refs.chevron.cloneNode(true)
         this.chevrons.push(chevron)
-        this.$refs.path.appendChild(chevron)
+        this.$refs.flow.appendChild(chevron)
       })
     },
     animate(delay) {
-      const path = this.$refs.path
+      const flow = this.$refs.flow
       const container = this.$parent.$refs.container
       const elements = this.chevrons
-      const height = path.clientHeight
-      const width = path.clientWidth
+      const height = flow.clientHeight
+      const width = flow.clientWidth
       const xDistance = width - (width * 8 / 400 ) // eslint-disable-line
       const positions = {
         startX: this.leftToRight ? 0 : xDistance,
