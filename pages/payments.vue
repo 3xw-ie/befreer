@@ -205,12 +205,12 @@
             <p class="text-indigo-lightest leading-loose">
               Leave what can be done by computers to the computers. Automate the repetitive work so you can focus on more important tasks.
             </p>
-            <nuxt-link
+            <!-- <nuxt-link
               to="/automation"
               class="text-white no-underline leading-loose"
             >
               Learn more about automation &rarr;
-            </nuxt-link>
+            </nuxt-link> -->
           </div>
         </div>
       </section>
