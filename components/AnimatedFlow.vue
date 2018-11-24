@@ -45,7 +45,7 @@ export default {
     }
   },
   mounted() {
-    this.cloneChevrons(15)
+    // this.cloneChevrons(15)
     try {
       this.animate(this.delay)
     } catch (error) {
