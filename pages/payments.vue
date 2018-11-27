@@ -160,16 +160,12 @@
               </h1>
             </div>
             <p class="text-indigo-lightest leading-loose">
-              Don't break a sweat worrying about securely handling your customers' credit cards. We use
-              <a
+              No need to worry about securely handling your customers' credit cards. We use <a
                 href="https://stripe.com"
                 class="text-indigo-lightest"
                 target="_blank"
                 rel="noopener"
-              >
-                Stripe
-              </a>
-              to ensure your customers' data is securely handled.
+              >Stripe</a> to ensure your customers' data is kept safe.
             </p>
           </div>
           <div class="mb-8 md:mr-8">
@@ -249,7 +245,7 @@
               type="submit"
               class="rounded-r-lg p-4 bg-indigo uppercase tracking-wide font-bold text-sm sm:text-base text-white border border-indigo sm:border-transparent focus:outline-none focus:shadow-outline"
             >
-              <!-- Submit -->
+              Submit
             </button>
           </form>
           <small class="block pt-2 px-4 text-grey-darkest">
