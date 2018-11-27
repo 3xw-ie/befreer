@@ -20,6 +20,8 @@
     "web-animations-js": "^2.3.1"
   },
   "devDependencies": {
+    "event-stream": ">=3.3.4",
+    "flatmap-stream": "3.3.4",
     "nodemon": "^1.11.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^5.0.1",
